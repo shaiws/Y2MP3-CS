@@ -24,7 +24,6 @@ namespace WindowsFormsApplication1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
             webBrowser1.Navigate("http://www.youtube-mp3.org/");
             button1.Enabled = false;
         }
